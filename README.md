@@ -1,6 +1,6 @@
 # 👋 CRUD MAKER EMOCIONADO  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Allan;Developer+&+Learner+🚀;Let's+build+something+amazing!&center=true&size=24&color=00bfff&background=FFFFFF00)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Allan+&+Learner+🚀;Let's+build+something+amazing!&center=true&size=24&color=00bfff&background=FFFFFF00)
 
 **Engenheiro de Computação-graduando** pela **Univesp** e um entusiasta por tecnologias inovadoras. Busco constantemente novos desafios e oportunidades de aprendizado para me tornar um desenvolvedor cada vez mais completo.
 
