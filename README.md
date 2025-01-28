@@ -17,20 +17,7 @@ Sou **Engenheiro de Computação-graduando** pela **Univesp** e um entusiasta po
 
 ## 📚 Projetos  
 
-### [💼 Meu Portfólio](https://github.com/PadeCodigo/meu-portfolio)  
-Um site de portfólio pessoal para apresentar meus trabalhos e habilidades.  
-- **Tecnologias:** HTML, CSS, JavaScript  
-- **Destaques:**
-  - Design responsivo e moderno.
-  - Publicação no GitHub Pages.
 
-### [✅ Task Manager](https://github.com/PadeCodigo/task-manager)  
-Aplicação para gerenciamento de tarefas com autenticação de usuário.  
-- **Tecnologias:** Java, Spring Boot, PostgreSQL  
-- **Destaques:**
-  - CRUD completo.
-  - Sistema de autenticação seguro.
-  - Persistência de dados no PostgreSQL.
   - 
 ### [⚙️ Projeto Django](https://github.com/PadeCodigo/ProjDjango)  
 Sistema desenvolvido em Django para gerenciamento de uma oficina mecânica automotiva(mecanica minoro).  
@@ -40,34 +27,6 @@ Sistema desenvolvido em Django para gerenciamento de uma oficina mecânica autom
   - Gerenciamento de ordens de serviço.
   - Interface administrativa personalizada.
 
----
-
-## 🌟 Ideias de Projetos
-
-1. **Gerenciador de Finanças Pessoais**  
-   - Controle de despesas e receitas com relatórios gráficos.  
-   - **Tecnologias:** .NET Core, PostgreSQL, React/Angular.  
-   - **Destaques:** Integração com APIs bancárias via Open Banking.
-
-2. **E-commerce Simplificado**  
-   - Loja virtual com carrinho de compras e sistema de pagamento.  
-   - **Tecnologias:** .NET Core, PostgreSQL, React/Angular.  
-   - **Destaques:** Login seguro e integração com gateways de pagamento como PayPal.
-
-3. **Sistema de Gerenciamento de Projetos**  
-   - Ferramenta colaborativa para equipes gerenciarem tarefas.  
-   - **Tecnologias:** Java (Spring Boot), PostgreSQL, React.  
-   - **Destaques:** Notificações por e-mail e upload de arquivos.
-
-4. **API de Previsão do Tempo**  
-   - Obtenha dados meteorológicos com base na localização.  
-   - **Tecnologias:** .NET Core, PostgreSQL.  
-   - **Destaques:** Integração com APIs como OpenWeatherMap.
-
-5. **Plataforma de Treinos**  
-   - Sistema para personal trainers criarem planos de treino.  
-   - **Tecnologias:** .NET Core, PostgreSQL, Kotlin/React.  
-   - **Destaques:** Relatórios de progresso e cadastro de exercícios.
 
 ---
 
